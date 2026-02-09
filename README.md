@@ -6,4 +6,4 @@ Students: Anselm Biehler; Christopher Brooks
 
 The repository contains the complete analysis in a Jupyter notebook, including all figures and underlying data.
 
-The attached presentation summarizes the key findings discussed during the oral exam.
+The attached presentation summarizes the key findings and is provided for presentation during the oral exam.
