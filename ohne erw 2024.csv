@@ -1,0 +1,625 @@
+﻿Bundesland;Geschlecht;Einkommensklasse;Bevölkerung in Hauptwohnsitzhaushalten;Erwerbstätige aus Hauptwohnsitzhaushalten;Nichterwerbspersonen aus Hauptwohnsitzhaushalten
+Baden-Württemberg;männlich;Kein Einkommen;990;11;957
+Baden-Württemberg;männlich;unter 500 EUR;215;61;142
+Baden-Württemberg;männlich;500 bis unter 1000 EUR;382;170;186
+Baden-Württemberg;männlich;1000 bis unter 1250 EUR;252;104;133
+Baden-Württemberg;männlich;1250 bis unter 1500 EUR;229;96;125
+Baden-Württemberg;männlich;1500 bis unter 1750 EUR;262;135;122
+Baden-Württemberg;männlich;1750 bis unter 2000 EUR;355;225;126
+Baden-Württemberg;männlich;2000 bis unter 2500 EUR;803;604;191
+Baden-Württemberg;männlich;2500 bis unter 3000 EUR;611;509;100
+Baden-Württemberg;männlich;3000 bis unter 3500 EUR;454;387;66
+Baden-Württemberg;männlich;3500 EUR und mehr;1017;916;100
+Baden-Württemberg;männlich;Ohne Angabe;0;0;0
+Baden-Württemberg;männlich;Insgesamt;5571;3217;2247
+Baden-Württemberg;weiblich;Kein Einkommen;1135;17;1097
+Baden-Württemberg;weiblich;unter 500 EUR;423;152;261
+Baden-Württemberg;weiblich;500 bis unter 1000 EUR;855;394;436
+Baden-Württemberg;weiblich;1000 bis unter 1250 EUR;552;293;250
+Baden-Württemberg;weiblich;1250 bis unter 1500 EUR;435;256;175
+Baden-Württemberg;weiblich;1500 bis unter 1750 EUR;390;255;132
+Baden-Württemberg;weiblich;1750 bis unter 2000 EUR;390;276;113
+Baden-Württemberg;weiblich;2000 bis unter 2500 EUR;632;491;138
+Baden-Württemberg;weiblich;2500 bis unter 3000 EUR;347;284;62
+Baden-Württemberg;weiblich;3000 bis unter 3500 EUR;209;177;32
+Baden-Württemberg;weiblich;3500 EUR und mehr;267;236;31
+Baden-Württemberg;weiblich;Ohne Angabe;0;0;0
+Baden-Württemberg;weiblich;Insgesamt;5636;2830;2725
+Baden-Württemberg;Insgesamt;Kein Einkommen;2125;28;2054
+Baden-Württemberg;Insgesamt;unter 500 EUR;637;212;403
+Baden-Württemberg;Insgesamt;500 bis unter 1000 EUR;1237;565;622
+Baden-Württemberg;Insgesamt;1000 bis unter 1250 EUR;804;397;382
+Baden-Württemberg;Insgesamt;1250 bis unter 1500 EUR;664;352;300
+Baden-Württemberg;Insgesamt;1500 bis unter 1750 EUR;652;389;254
+Baden-Württemberg;Insgesamt;1750 bis unter 2000 EUR;745;501;239
+Baden-Württemberg;Insgesamt;2000 bis unter 2500 EUR;1435;1095;330
+Baden-Württemberg;Insgesamt;2500 bis unter 3000 EUR;959;794;161
+Baden-Württemberg;Insgesamt;3000 bis unter 3500 EUR;664;564;98
+Baden-Württemberg;Insgesamt;3500 EUR und mehr;1285;1151;130
+Baden-Württemberg;Insgesamt;Ohne Angabe;0;0;0
+Baden-Württemberg;Insgesamt;Insgesamt;11207;6047;4973
+Bayern;männlich;Kein Einkommen;1151;18;1114
+Bayern;männlich;unter 500 EUR;217;60;148
+Bayern;männlich;500 bis unter 1000 EUR;418;192;199
+Bayern;männlich;1000 bis unter 1250 EUR;290;115;159
+Bayern;männlich;1250 bis unter 1500 EUR;249;96;146
+Bayern;männlich;1500 bis unter 1750 EUR;366;183;176
+Bayern;männlich;1750 bis unter 2000 EUR;392;257;131
+Bayern;männlich;2000 bis unter 2500 EUR;991;768;215
+Bayern;männlich;2500 bis unter 3000 EUR;711;585;121
+Bayern;männlich;3000 bis unter 3500 EUR;548;455;91
+Bayern;männlich;3500 EUR und mehr;1207;1074;132
+Bayern;männlich;Ohne Angabe;0;0;0
+Bayern;männlich;Insgesamt;6544;3808;2632
+Bayern;weiblich;Kein Einkommen;1312;22;1269
+Bayern;weiblich;unter 500 EUR;447;150;286
+Bayern;weiblich;500 bis unter 1000 EUR;951;432;497
+Bayern;weiblich;1000 bis unter 1250 EUR;658;343;305
+Bayern;weiblich;1250 bis unter 1500 EUR;478;279;193
+Bayern;weiblich;1500 bis unter 1750 EUR;513;330;178
+Bayern;weiblich;1750 bis unter 2000 EUR;427;305;118
+Bayern;weiblich;2000 bis unter 2500 EUR;761;587;168
+Bayern;weiblich;2500 bis unter 3000 EUR;428;359;67
+Bayern;weiblich;3000 bis unter 3500 EUR;258;216;41
+Bayern;weiblich;3500 EUR und mehr;387;332;55
+Bayern;weiblich;Ohne Angabe;0;0;0
+Bayern;weiblich;Insgesamt;6620;3357;3177
+Bayern;Insgesamt;Kein Einkommen;2463;41;2383
+Bayern;Insgesamt;unter 500 EUR;664;209;434
+Bayern;Insgesamt;500 bis unter 1000 EUR;1369;624;696
+Bayern;Insgesamt;1000 bis unter 1250 EUR;948;459;464
+Bayern;Insgesamt;1250 bis unter 1500 EUR;727;375;339
+Bayern;Insgesamt;1500 bis unter 1750 EUR;878;513;354
+Bayern;Insgesamt;1750 bis unter 2000 EUR;819;562;250
+Bayern;Insgesamt;2000 bis unter 2500 EUR;1751;1356;383
+Bayern;Insgesamt;2500 bis unter 3000 EUR;1139;944;188
+Bayern;Insgesamt;3000 bis unter 3500 EUR;806;671;132
+Bayern;Insgesamt;3500 EUR und mehr;1595;1406;186
+Bayern;Insgesamt;Ohne Angabe;0;0;0
+Bayern;Insgesamt;Insgesamt;13164;7165;5809
+Berlin;männlich;Kein Einkommen;320;0;307
+Berlin;männlich;unter 500 EUR;84;20;58
+Berlin;männlich;500 bis unter 1000 EUR;183;63;98
+Berlin;männlich;1000 bis unter 1250 EUR;128;54;64
+Berlin;männlich;1250 bis unter 1500 EUR;103;54;45
+Berlin;männlich;1500 bis unter 1750 EUR;107;67;37
+Berlin;männlich;1750 bis unter 2000 EUR;125;89;33
+Berlin;männlich;2000 bis unter 2500 EUR;227;178;46
+Berlin;männlich;2500 bis unter 3000 EUR;148;123;24
+Berlin;männlich;3000 bis unter 3500 EUR;120;102;17
+Berlin;männlich;3500 EUR und mehr;252;231;21
+Berlin;männlich;Ohne Angabe;0;0;0
+Berlin;männlich;Insgesamt;1798;986;749
+Berlin;weiblich;Kein Einkommen;350;0;338
+Berlin;weiblich;unter 500 EUR;103;25;73
+Berlin;weiblich;500 bis unter 1000 EUR;215;73;128
+Berlin;weiblich;1000 bis unter 1250 EUR;160;61;92
+Berlin;weiblich;1250 bis unter 1500 EUR;136;63;69
+Berlin;weiblich;1500 bis unter 1750 EUR;137;80;55
+Berlin;weiblich;1750 bis unter 2000 EUR;136;87;47
+Berlin;weiblich;2000 bis unter 2500 EUR;250;184;64
+Berlin;weiblich;2500 bis unter 3000 EUR;147;119;28
+Berlin;weiblich;3000 bis unter 3500 EUR;89;76;13
+Berlin;weiblich;3500 EUR und mehr;133;119;13
+Berlin;weiblich;Ohne Angabe;0;0;0
+Berlin;weiblich;Insgesamt;1857;890;921
+Berlin;Insgesamt;Kein Einkommen;670;9;645
+Berlin;Insgesamt;unter 500 EUR;187;45;132
+Berlin;Insgesamt;500 bis unter 1000 EUR;399;136;227
+Berlin;Insgesamt;1000 bis unter 1250 EUR;288;115;156
+Berlin;Insgesamt;1250 bis unter 1500 EUR;239;117;114
+Berlin;Insgesamt;1500 bis unter 1750 EUR;244;147;92
+Berlin;Insgesamt;1750 bis unter 2000 EUR;261;176;80
+Berlin;Insgesamt;2000 bis unter 2500 EUR;477;361;110
+Berlin;Insgesamt;2500 bis unter 3000 EUR;296;242;52
+Berlin;Insgesamt;3000 bis unter 3500 EUR;209;178;30
+Berlin;Insgesamt;3500 EUR und mehr;385;350;34
+Berlin;Insgesamt;Ohne Angabe;0;0;0
+Berlin;Insgesamt;Insgesamt;3655;1876;1671
+Brandenburg;männlich;Kein Einkommen;201;0;194
+Brandenburg;männlich;unter 500 EUR;49;11;36
+Brandenburg;männlich;500 bis unter 1000 EUR;110;38;64
+Brandenburg;männlich;1000 bis unter 1250 EUR;96;29;65
+Brandenburg;männlich;1250 bis unter 1500 EUR;98;38;58
+Brandenburg;männlich;1500 bis unter 1750 EUR;109;63;46
+Brandenburg;männlich;1750 bis unter 2000 EUR;117;80;37
+Brandenburg;männlich;2000 bis unter 2500 EUR;190;153;36
+Brandenburg;männlich;2500 bis unter 3000 EUR;100;87;13
+Brandenburg;männlich;3000 bis unter 3500 EUR;59;51;7
+Brandenburg;männlich;3500 EUR und mehr;113;105;7
+Brandenburg;männlich;Ohne Angabe;0;0;0
+Brandenburg;männlich;Insgesamt;1241;657;563
+Brandenburg;weiblich;Kein Einkommen;212;0;207
+Brandenburg;weiblich;unter 500 EUR;54;14;39
+Brandenburg;weiblich;500 bis unter 1000 EUR;144;44;92
+Brandenburg;weiblich;1000 bis unter 1250 EUR;134;47;85
+Brandenburg;weiblich;1250 bis unter 1500 EUR;126;56;69
+Brandenburg;weiblich;1500 bis unter 1750 EUR;120;65;54
+Brandenburg;weiblich;1750 bis unter 2000 EUR;112;66;45
+Brandenburg;weiblich;2000 bis unter 2500 EUR;175;125;50
+Brandenburg;weiblich;2500 bis unter 3000 EUR;89;71;17
+Brandenburg;weiblich;3000 bis unter 3500 EUR;49;42;7
+Brandenburg;weiblich;3500 EUR und mehr;59;55;0
+Brandenburg;weiblich;Ohne Angabe;0;0;0
+Brandenburg;weiblich;Insgesamt;1276;586;671
+Brandenburg;Insgesamt;Kein Einkommen;413;0;401
+Brandenburg;Insgesamt;unter 500 EUR;103;24;75
+Brandenburg;Insgesamt;500 bis unter 1000 EUR;254;82;157
+Brandenburg;Insgesamt;1000 bis unter 1250 EUR;231;76;149
+Brandenburg;Insgesamt;1250 bis unter 1500 EUR;224;93;127
+Brandenburg;Insgesamt;1500 bis unter 1750 EUR;230;128;100
+Brandenburg;Insgesamt;1750 bis unter 2000 EUR;229;146;82
+Brandenburg;Insgesamt;2000 bis unter 2500 EUR;365;278;86
+Brandenburg;Insgesamt;2500 bis unter 3000 EUR;189;158;30
+Brandenburg;Insgesamt;3000 bis unter 3500 EUR;108;92;15
+Brandenburg;Insgesamt;3500 EUR und mehr;172;161;11
+Brandenburg;Insgesamt;Ohne Angabe;0;0;0
+Brandenburg;Insgesamt;Insgesamt;2517;1243;1234
+Bremen;männlich;Kein Einkommen;50;0;49
+Bremen;männlich;unter 500 EUR;25;0;19
+Bremen;männlich;500 bis unter 1000 EUR;46;14;27
+Bremen;männlich;1000 bis unter 1250 EUR;20;7;12
+Bremen;männlich;1250 bis unter 1500 EUR;18;9;8
+Bremen;männlich;1500 bis unter 1750 EUR;22;12;9
+Bremen;männlich;1750 bis unter 2000 EUR;22;17;5
+Bremen;männlich;2000 bis unter 2500 EUR;50;40;10
+Bremen;männlich;2500 bis unter 3000 EUR;35;29;5
+Bremen;männlich;3000 bis unter 3500 EUR;20;16;0
+Bremen;männlich;3500 EUR und mehr;35;32;0
+Bremen;männlich;Ohne Angabe;0;0;0
+Bremen;männlich;Insgesamt;344;181;152
+Bremen;weiblich;Kein Einkommen;66;0;63
+Bremen;weiblich;unter 500 EUR;32;9;23
+Bremen;weiblich;500 bis unter 1000 EUR;68;22;42
+Bremen;weiblich;1000 bis unter 1250 EUR;37;16;20
+Bremen;weiblich;1250 bis unter 1500 EUR;25;16;9
+Bremen;weiblich;1500 bis unter 1750 EUR;23;15;8
+Bremen;weiblich;1750 bis unter 2000 EUR;21;14;7
+Bremen;weiblich;2000 bis unter 2500 EUR;36;26;10
+Bremen;weiblich;2500 bis unter 3000 EUR;19;16;0
+Bremen;weiblich;3000 bis unter 3500 EUR;11;9;0
+Bremen;weiblich;3500 EUR und mehr;12;11;0
+Bremen;weiblich;Ohne Angabe;0;0;0
+Bremen;weiblich;Insgesamt;351;154;190
+Bremen;Insgesamt;Kein Einkommen;116;0;112
+Bremen;Insgesamt;unter 500 EUR;57;14;42
+Bremen;Insgesamt;500 bis unter 1000 EUR;114;35;69
+Bremen;Insgesamt;1000 bis unter 1250 EUR;57;24;32
+Bremen;Insgesamt;1250 bis unter 1500 EUR;43;24;17
+Bremen;Insgesamt;1500 bis unter 1750 EUR;46;27;18
+Bremen;Insgesamt;1750 bis unter 2000 EUR;43;31;12
+Bremen;Insgesamt;2000 bis unter 2500 EUR;86;66;20
+Bremen;Insgesamt;2500 bis unter 3000 EUR;54;45;9
+Bremen;Insgesamt;3000 bis unter 3500 EUR;31;25;6
+Bremen;Insgesamt;3500 EUR und mehr;48;42;5
+Bremen;Insgesamt;Ohne Angabe;0;0;0
+Bremen;Insgesamt;Insgesamt;694;335;342
+Hamburg;männlich;Kein Einkommen;159;0;153
+Hamburg;männlich;unter 500 EUR;49;10;35
+Hamburg;männlich;500 bis unter 1000 EUR;79;30;42
+Hamburg;männlich;1000 bis unter 1250 EUR;53;21;27
+Hamburg;männlich;1250 bis unter 1500 EUR;43;22;20
+Hamburg;männlich;1500 bis unter 1750 EUR;46;26;18
+Hamburg;männlich;1750 bis unter 2000 EUR;53;38;14
+Hamburg;männlich;2000 bis unter 2500 EUR;126;102;23
+Hamburg;männlich;2500 bis unter 3000 EUR;83;71;12
+Hamburg;männlich;3000 bis unter 3500 EUR;66;58;9
+Hamburg;männlich;3500 EUR und mehr;146;133;13
+Hamburg;männlich;Ohne Angabe;0;0;0
+Hamburg;männlich;Insgesamt;904;512;364
+Hamburg;weiblich;Kein Einkommen;174;0;168
+Hamburg;weiblich;unter 500 EUR;65;15;48
+Hamburg;weiblich;500 bis unter 1000 EUR;114;44;64
+Hamburg;weiblich;1000 bis unter 1250 EUR;77;36;38
+Hamburg;weiblich;1250 bis unter 1500 EUR;68;35;31
+Hamburg;weiblich;1500 bis unter 1750 EUR;64;36;26
+Hamburg;weiblich;1750 bis unter 2000 EUR;67;44;22
+Hamburg;weiblich;2000 bis unter 2500 EUR;124;97;25
+Hamburg;weiblich;2500 bis unter 3000 EUR;69;60;10
+Hamburg;weiblich;3000 bis unter 3500 EUR;49;42;7
+Hamburg;weiblich;3500 EUR und mehr;68;61;7
+Hamburg;weiblich;Ohne Angabe;0;0;0
+Hamburg;weiblich;Insgesamt;938;471;446
+Hamburg;Insgesamt;Kein Einkommen;332;0;321
+Hamburg;Insgesamt;unter 500 EUR;114;25;83
+Hamburg;Insgesamt;500 bis unter 1000 EUR;193;74;106
+Hamburg;Insgesamt;1000 bis unter 1250 EUR;130;57;65
+Hamburg;Insgesamt;1250 bis unter 1500 EUR;111;56;51
+Hamburg;Insgesamt;1500 bis unter 1750 EUR;110;63;44
+Hamburg;Insgesamt;1750 bis unter 2000 EUR;119;81;36
+Hamburg;Insgesamt;2000 bis unter 2500 EUR;250;199;48
+Hamburg;Insgesamt;2500 bis unter 3000 EUR;153;131;22
+Hamburg;Insgesamt;3000 bis unter 3500 EUR;115;99;15
+Hamburg;Insgesamt;3500 EUR und mehr;214;193;20
+Hamburg;Insgesamt;Ohne Angabe;0;0;0
+Hamburg;Insgesamt;Insgesamt;1842;983;810
+Hessen;männlich;Kein Einkommen;548;9;529
+Hessen;männlich;unter 500 EUR;148;41;99
+Hessen;männlich;500 bis unter 1000 EUR;229;99;114
+Hessen;männlich;1000 bis unter 1250 EUR;150;61;82
+Hessen;männlich;1250 bis unter 1500 EUR;136;63;69
+Hessen;männlich;1500 bis unter 1750 EUR;168;86;79
+Hessen;männlich;1750 bis unter 2000 EUR;191;121;67
+Hessen;männlich;2000 bis unter 2500 EUR;447;333;110
+Hessen;männlich;2500 bis unter 3000 EUR;309;249;58
+Hessen;männlich;3000 bis unter 3500 EUR;230;187;42
+Hessen;männlich;3500 EUR und mehr;520;456;63
+Hessen;männlich;Ohne Angabe;0;0;0
+Hessen;männlich;Insgesamt;3077;1706;1312
+Hessen;weiblich;Kein Einkommen;646;10;625
+Hessen;weiblich;unter 500 EUR;260;80;173
+Hessen;weiblich;500 bis unter 1000 EUR;426;180;235
+Hessen;weiblich;1000 bis unter 1250 EUR;294;140;148
+Hessen;weiblich;1250 bis unter 1500 EUR;226;126;97
+Hessen;weiblich;1500 bis unter 1750 EUR;227;135;90
+Hessen;weiblich;1750 bis unter 2000 EUR;196;136;58
+Hessen;weiblich;2000 bis unter 2500 EUR;341;255;84
+Hessen;weiblich;2500 bis unter 3000 EUR;205;167;37
+Hessen;weiblich;3000 bis unter 3500 EUR;133;109;24
+Hessen;weiblich;3500 EUR und mehr;197;168;28
+Hessen;weiblich;Ohne Angabe;0;0;0
+Hessen;weiblich;Insgesamt;3150;1506;1599
+Hessen;Insgesamt;Kein Einkommen;1194;19;1154
+Hessen;Insgesamt;unter 500 EUR;407;121;273
+Hessen;Insgesamt;500 bis unter 1000 EUR;655;279;349
+Hessen;Insgesamt;1000 bis unter 1250 EUR;444;202;229
+Hessen;Insgesamt;1250 bis unter 1500 EUR;362;189;166
+Hessen;Insgesamt;1500 bis unter 1750 EUR;395;221;169
+Hessen;Insgesamt;1750 bis unter 2000 EUR;387;257;125
+Hessen;Insgesamt;2000 bis unter 2500 EUR;788;587;194
+Hessen;Insgesamt;2500 bis unter 3000 EUR;514;416;96
+Hessen;Insgesamt;3000 bis unter 3500 EUR;363;296;65
+Hessen;Insgesamt;3500 EUR und mehr;716;624;91
+Hessen;Insgesamt;Ohne Angabe;0;0;0
+Hessen;Insgesamt;Insgesamt;6227;3212;2911
+Mecklenburg-Vorpommern;männlich;Kein Einkommen;124;0;122
+Mecklenburg-Vorpommern;männlich;unter 500 EUR;17;0;13
+Mecklenburg-Vorpommern;männlich;500 bis unter 1000 EUR;88;26;54
+Mecklenburg-Vorpommern;männlich;1000 bis unter 1250 EUR;69;16;50
+Mecklenburg-Vorpommern;männlich;1250 bis unter 1500 EUR;66;24;41
+Mecklenburg-Vorpommern;männlich;1500 bis unter 1750 EUR;71;41;29
+Mecklenburg-Vorpommern;männlich;1750 bis unter 2000 EUR;72;54;18
+Mecklenburg-Vorpommern;männlich;2000 bis unter 2500 EUR;105;83;21
+Mecklenburg-Vorpommern;männlich;2500 bis unter 3000 EUR;62;54;8
+Mecklenburg-Vorpommern;männlich;3000 bis unter 3500 EUR;33;30;0
+Mecklenburg-Vorpommern;männlich;3500 EUR und mehr;56;52;0
+Mecklenburg-Vorpommern;männlich;Ohne Angabe;0;0;0
+Mecklenburg-Vorpommern;männlich;Insgesamt;763;384;363
+Mecklenburg-Vorpommern;weiblich;Kein Einkommen;125;0;122
+Mecklenburg-Vorpommern;weiblich;unter 500 EUR;25;7;17
+Mecklenburg-Vorpommern;weiblich;500 bis unter 1000 EUR;101;28;68
+Mecklenburg-Vorpommern;weiblich;1000 bis unter 1250 EUR;97;30;65
+Mecklenburg-Vorpommern;weiblich;1250 bis unter 1500 EUR;83;40;42
+Mecklenburg-Vorpommern;weiblich;1500 bis unter 1750 EUR;87;47;39
+Mecklenburg-Vorpommern;weiblich;1750 bis unter 2000 EUR;68;41;27
+Mecklenburg-Vorpommern;weiblich;2000 bis unter 2500 EUR;110;78;32
+Mecklenburg-Vorpommern;weiblich;2500 bis unter 3000 EUR;48;38;9
+Mecklenburg-Vorpommern;weiblich;3000 bis unter 3500 EUR;25;23;0
+Mecklenburg-Vorpommern;weiblich;3500 EUR und mehr;24;23;0
+Mecklenburg-Vorpommern;weiblich;Ohne Angabe;0;0;0
+Mecklenburg-Vorpommern;weiblich;Insgesamt;792;355;424
+Mecklenburg-Vorpommern;Insgesamt;Kein Einkommen;249;0;244
+Mecklenburg-Vorpommern;Insgesamt;unter 500 EUR;42;10;30
+Mecklenburg-Vorpommern;Insgesamt;500 bis unter 1000 EUR;188;54;122
+Mecklenburg-Vorpommern;Insgesamt;1000 bis unter 1250 EUR;166;46;115
+Mecklenburg-Vorpommern;Insgesamt;1250 bis unter 1500 EUR;149;64;83
+Mecklenburg-Vorpommern;Insgesamt;1500 bis unter 1750 EUR;157;88;67
+Mecklenburg-Vorpommern;Insgesamt;1750 bis unter 2000 EUR;141;95;45
+Mecklenburg-Vorpommern;Insgesamt;2000 bis unter 2500 EUR;215;160;53
+Mecklenburg-Vorpommern;Insgesamt;2500 bis unter 3000 EUR;110;92;17
+Mecklenburg-Vorpommern;Insgesamt;3000 bis unter 3500 EUR;58;52;0
+Mecklenburg-Vorpommern;Insgesamt;3500 EUR und mehr;79;75;0
+Mecklenburg-Vorpommern;Insgesamt;Ohne Angabe;0;0;0
+Mecklenburg-Vorpommern;Insgesamt;Insgesamt;1554;739;786
+Niedersachsen;männlich;Kein Einkommen;665;10;644
+Niedersachsen;männlich;unter 500 EUR;184;52;125
+Niedersachsen;männlich;500 bis unter 1000 EUR;336;136;176
+Niedersachsen;männlich;1000 bis unter 1250 EUR;182;73;99
+Niedersachsen;männlich;1250 bis unter 1500 EUR;190;83;103
+Niedersachsen;männlich;1500 bis unter 1750 EUR;218;121;94
+Niedersachsen;männlich;1750 bis unter 2000 EUR;291;191;98
+Niedersachsen;männlich;2000 bis unter 2500 EUR;615;466;145
+Niedersachsen;männlich;2500 bis unter 3000 EUR;404;322;80
+Niedersachsen;männlich;3000 bis unter 3500 EUR;288;233;54
+Niedersachsen;männlich;3500 EUR und mehr;547;481;65
+Niedersachsen;männlich;Ohne Angabe;0;0;0
+Niedersachsen;männlich;Insgesamt;3920;2168;1682
+Niedersachsen;weiblich;Kein Einkommen;761;13;734
+Niedersachsen;weiblich;unter 500 EUR;361;118;234
+Niedersachsen;weiblich;500 bis unter 1000 EUR;651;278;354
+Niedersachsen;weiblich;1000 bis unter 1250 EUR;395;204;183
+Niedersachsen;weiblich;1250 bis unter 1500 EUR;346;204;139
+Niedersachsen;weiblich;1500 bis unter 1750 EUR;273;171;100
+Niedersachsen;weiblich;1750 bis unter 2000 EUR;275;188;87
+Niedersachsen;weiblich;2000 bis unter 2500 EUR;425;325;99
+Niedersachsen;weiblich;2500 bis unter 3000 EUR;225;178;46
+Niedersachsen;weiblich;3000 bis unter 3500 EUR;131;102;29
+Niedersachsen;weiblich;3500 EUR und mehr;158;135;22
+Niedersachsen;weiblich;Ohne Angabe;0;0;0
+Niedersachsen;weiblich;Insgesamt;4002;1915;2027
+Niedersachsen;Insgesamt;Kein Einkommen;1426;23;1378
+Niedersachsen;Insgesamt;unter 500 EUR;545;170;359
+Niedersachsen;Insgesamt;500 bis unter 1000 EUR;988;414;531
+Niedersachsen;Insgesamt;1000 bis unter 1250 EUR;577;277;283
+Niedersachsen;Insgesamt;1250 bis unter 1500 EUR;536;286;242
+Niedersachsen;Insgesamt;1500 bis unter 1750 EUR;490;291;194
+Niedersachsen;Insgesamt;1750 bis unter 2000 EUR;566;378;185
+Niedersachsen;Insgesamt;2000 bis unter 2500 EUR;1040;791;243
+Niedersachsen;Insgesamt;2500 bis unter 3000 EUR;629;500;126
+Niedersachsen;Insgesamt;3000 bis unter 3500 EUR;419;335;83
+Niedersachsen;Insgesamt;3500 EUR und mehr;705;617;87
+Niedersachsen;Insgesamt;Ohne Angabe;0;0;0
+Niedersachsen;Insgesamt;Insgesamt;7921;4083;3710
+Nordrhein-Westfalen;männlich;Kein Einkommen;1511;28;1453
+Nordrhein-Westfalen;männlich;unter 500 EUR;446;111;311
+Nordrhein-Westfalen;männlich;500 bis unter 1000 EUR;758;310;382
+Nordrhein-Westfalen;männlich;1000 bis unter 1250 EUR;429;177;230
+Nordrhein-Westfalen;männlich;1250 bis unter 1500 EUR;378;165;199
+Nordrhein-Westfalen;männlich;1500 bis unter 1750 EUR;480;253;216
+Nordrhein-Westfalen;männlich;1750 bis unter 2000 EUR;576;366;203
+Nordrhein-Westfalen;männlich;2000 bis unter 2500 EUR;1323;981;328
+Nordrhein-Westfalen;männlich;2500 bis unter 3000 EUR;929;738;186
+Nordrhein-Westfalen;männlich;3000 bis unter 3500 EUR;633;512;118
+Nordrhein-Westfalen;männlich;3500 EUR und mehr;1306;1136;166
+Nordrhein-Westfalen;männlich;Ohne Angabe;0;0;0
+Nordrhein-Westfalen;männlich;Insgesamt;8771;4779;3791
+Nordrhein-Westfalen;weiblich;Kein Einkommen;1814;32;1748
+Nordrhein-Westfalen;weiblich;unter 500 EUR;829;257;552
+Nordrhein-Westfalen;weiblich;500 bis unter 1000 EUR;1372;582;745
+Nordrhein-Westfalen;weiblich;1000 bis unter 1250 EUR;863;435;413
+Nordrhein-Westfalen;weiblich;1250 bis unter 1500 EUR;688;379;300
+Nordrhein-Westfalen;weiblich;1500 bis unter 1750 EUR;600;363;230
+Nordrhein-Westfalen;weiblich;1750 bis unter 2000 EUR;567;377;186
+Nordrhein-Westfalen;weiblich;2000 bis unter 2500 EUR;974;719;248
+Nordrhein-Westfalen;weiblich;2500 bis unter 3000 EUR;551;436;113
+Nordrhein-Westfalen;weiblich;3000 bis unter 3500 EUR;335;266;69
+Nordrhein-Westfalen;weiblich;3500 EUR und mehr;441;370;70
+Nordrhein-Westfalen;weiblich;Ohne Angabe;0;0;0
+Nordrhein-Westfalen;weiblich;Insgesamt;9035;4216;4673
+Nordrhein-Westfalen;Insgesamt;Kein Einkommen;3325;61;3201
+Nordrhein-Westfalen;Insgesamt;unter 500 EUR;1275;368;863
+Nordrhein-Westfalen;Insgesamt;500 bis unter 1000 EUR;2130;891;1126
+Nordrhein-Westfalen;Insgesamt;1000 bis unter 1250 EUR;1292;612;642
+Nordrhein-Westfalen;Insgesamt;1250 bis unter 1500 EUR;1066;544;499
+Nordrhein-Westfalen;Insgesamt;1500 bis unter 1750 EUR;1079;616;445
+Nordrhein-Westfalen;Insgesamt;1750 bis unter 2000 EUR;1143;743;389
+Nordrhein-Westfalen;Insgesamt;2000 bis unter 2500 EUR;2296;1700;576
+Nordrhein-Westfalen;Insgesamt;2500 bis unter 3000 EUR;1480;1174;298
+Nordrhein-Westfalen;Insgesamt;3000 bis unter 3500 EUR;968;778;187
+Nordrhein-Westfalen;Insgesamt;3500 EUR und mehr;1747;1505;236
+Nordrhein-Westfalen;Insgesamt;Ohne Angabe;0;0;0
+Nordrhein-Westfalen;Insgesamt;Insgesamt;17806;8996;8464
+Rheinland-Pfalz;männlich;Kein Einkommen;353;0;339
+Rheinland-Pfalz;männlich;unter 500 EUR;90;29;57
+Rheinland-Pfalz;männlich;500 bis unter 1000 EUR;164;68;84
+Rheinland-Pfalz;männlich;1000 bis unter 1250 EUR;90;37;49
+Rheinland-Pfalz;männlich;1250 bis unter 1500 EUR;97;41;54
+Rheinland-Pfalz;männlich;1500 bis unter 1750 EUR;111;58;52
+Rheinland-Pfalz;männlich;1750 bis unter 2000 EUR;143;95;47
+Rheinland-Pfalz;männlich;2000 bis unter 2500 EUR;315;235;78
+Rheinland-Pfalz;männlich;2500 bis unter 3000 EUR;214;176;36
+Rheinland-Pfalz;männlich;3000 bis unter 3500 EUR;151;124;27
+Rheinland-Pfalz;männlich;3500 EUR und mehr;303;258;43
+Rheinland-Pfalz;männlich;Ohne Angabe;0;0;0
+Rheinland-Pfalz;männlich;Insgesamt;2032;1128;864
+Rheinland-Pfalz;weiblich;Kein Einkommen;419;10;402
+Rheinland-Pfalz;weiblich;unter 500 EUR;187;69;113
+Rheinland-Pfalz;weiblich;500 bis unter 1000 EUR;317;139;169
+Rheinland-Pfalz;weiblich;1000 bis unter 1250 EUR;203;106;94
+Rheinland-Pfalz;weiblich;1250 bis unter 1500 EUR;174;104;68
+Rheinland-Pfalz;weiblich;1500 bis unter 1750 EUR;128;82;44
+Rheinland-Pfalz;weiblich;1750 bis unter 2000 EUR;134;95;39
+Rheinland-Pfalz;weiblich;2000 bis unter 2500 EUR;212;161;50
+Rheinland-Pfalz;weiblich;2500 bis unter 3000 EUR;119;94;25
+Rheinland-Pfalz;weiblich;3000 bis unter 3500 EUR;70;54;15
+Rheinland-Pfalz;weiblich;3500 EUR und mehr;99;84;15
+Rheinland-Pfalz;weiblich;Ohne Angabe;0;0;0
+Rheinland-Pfalz;weiblich;Insgesamt;2062;1000;1035
+Rheinland-Pfalz;Insgesamt;Kein Einkommen;772;15;742
+Rheinland-Pfalz;Insgesamt;unter 500 EUR;277;99;169
+Rheinland-Pfalz;Insgesamt;500 bis unter 1000 EUR;482;208;253
+Rheinland-Pfalz;Insgesamt;1000 bis unter 1250 EUR;293;143;143
+Rheinland-Pfalz;Insgesamt;1250 bis unter 1500 EUR;271;145;122
+Rheinland-Pfalz;Insgesamt;1500 bis unter 1750 EUR;239;141;96
+Rheinland-Pfalz;Insgesamt;1750 bis unter 2000 EUR;277;189;86
+Rheinland-Pfalz;Insgesamt;2000 bis unter 2500 EUR;527;396;128
+Rheinland-Pfalz;Insgesamt;2500 bis unter 3000 EUR;333;270;61
+Rheinland-Pfalz;Insgesamt;3000 bis unter 3500 EUR;221;179;42
+Rheinland-Pfalz;Insgesamt;3500 EUR und mehr;402;343;58
+Rheinland-Pfalz;Insgesamt;Ohne Angabe;0;0;0
+Rheinland-Pfalz;Insgesamt;Insgesamt;4094;2128;1899
+Saarland;männlich;Kein Einkommen;62;0;61
+Saarland;männlich;unter 500 EUR;39;6;31
+Saarland;männlich;500 bis unter 1000 EUR;47;17;26
+Saarland;männlich;1000 bis unter 1250 EUR;24;9;13
+Saarland;männlich;1250 bis unter 1500 EUR;28;12;15
+Saarland;männlich;1500 bis unter 1750 EUR;28;14;13
+Saarland;männlich;1750 bis unter 2000 EUR;39;23;16
+Saarland;männlich;2000 bis unter 2500 EUR;83;60;22
+Saarland;männlich;2500 bis unter 3000 EUR;57;44;13
+Saarland;männlich;3000 bis unter 3500 EUR;32;27;6
+Saarland;männlich;3500 EUR und mehr;58;47;10
+Saarland;männlich;Ohne Angabe;0;0;0
+Saarland;männlich;Insgesamt;496;261;226
+Saarland;weiblich;Kein Einkommen;85;0;81
+Saarland;weiblich;unter 500 EUR;66;15;50
+Saarland;weiblich;500 bis unter 1000 EUR;83;30;50
+Saarland;weiblich;1000 bis unter 1250 EUR;48;22;25
+Saarland;weiblich;1250 bis unter 1500 EUR;45;22;23
+Saarland;weiblich;1500 bis unter 1750 EUR;36;21;15
+Saarland;weiblich;1750 bis unter 2000 EUR;38;26;12
+Saarland;weiblich;2000 bis unter 2500 EUR;51;40;11
+Saarland;weiblich;2500 bis unter 3000 EUR;27;21;6
+Saarland;weiblich;3000 bis unter 3500 EUR;16;13;0
+Saarland;weiblich;3500 EUR und mehr;18;15;0
+Saarland;weiblich;Ohne Angabe;0;0;0
+Saarland;weiblich;Insgesamt;511;226;278
+Saarland;Insgesamt;Kein Einkommen;147;0;142
+Saarland;Insgesamt;unter 500 EUR;105;21;81
+Saarland;Insgesamt;500 bis unter 1000 EUR;129;48;76
+Saarland;Insgesamt;1000 bis unter 1250 EUR;72;32;38
+Saarland;Insgesamt;1250 bis unter 1500 EUR;73;34;38
+Saarland;Insgesamt;1500 bis unter 1750 EUR;64;35;28
+Saarland;Insgesamt;1750 bis unter 2000 EUR;78;49;28
+Saarland;Insgesamt;2000 bis unter 2500 EUR;133;100;33
+Saarland;Insgesamt;2500 bis unter 3000 EUR;84;65;18
+Saarland;Insgesamt;3000 bis unter 3500 EUR;48;40;8
+Saarland;Insgesamt;3500 EUR und mehr;75;62;13
+Saarland;Insgesamt;Ohne Angabe;0;0;0
+Saarland;Insgesamt;Insgesamt;1007;487;503
+Sachsen;männlich;Kein Einkommen;315;0;310
+Sachsen;männlich;unter 500 EUR;63;10;49
+Sachsen;männlich;500 bis unter 1000 EUR;197;59;114
+Sachsen;männlich;1000 bis unter 1250 EUR;153;44;105
+Sachsen;männlich;1250 bis unter 1500 EUR;161;61;98
+Sachsen;männlich;1500 bis unter 1750 EUR;189;110;78
+Sachsen;männlich;1750 bis unter 2000 EUR;192;137;54
+Sachsen;männlich;2000 bis unter 2500 EUR;304;239;64
+Sachsen;männlich;2500 bis unter 3000 EUR;158;139;18
+Sachsen;männlich;3000 bis unter 3500 EUR;91;86;6
+Sachsen;männlich;3500 EUR und mehr;147;142;0
+Sachsen;männlich;Ohne Angabe;0;0;0
+Sachsen;männlich;Insgesamt;1971;1029;900
+Sachsen;weiblich;Kein Einkommen;314;0;307
+Sachsen;weiblich;unter 500 EUR;77;16;58
+Sachsen;weiblich;500 bis unter 1000 EUR;257;72;168
+Sachsen;weiblich;1000 bis unter 1250 EUR;219;70;145
+Sachsen;weiblich;1250 bis unter 1500 EUR;200;91;107
+Sachsen;weiblich;1500 bis unter 1750 EUR;213;121;91
+Sachsen;weiblich;1750 bis unter 2000 EUR;190;117;72
+Sachsen;weiblich;2000 bis unter 2500 EUR;286;202;83
+Sachsen;weiblich;2500 bis unter 3000 EUR;131;108;23
+Sachsen;weiblich;3000 bis unter 3500 EUR;66;59;6
+Sachsen;weiblich;3500 EUR und mehr;69;67;0
+Sachsen;weiblich;Ohne Angabe;0;0;0
+Sachsen;weiblich;Insgesamt;2022;924;1063
+Sachsen;Insgesamt;Kein Einkommen;629;0;617
+Sachsen;Insgesamt;unter 500 EUR;140;26;108
+Sachsen;Insgesamt;500 bis unter 1000 EUR;454;131;283
+Sachsen;Insgesamt;1000 bis unter 1250 EUR;372;114;249
+Sachsen;Insgesamt;1250 bis unter 1500 EUR;362;152;205
+Sachsen;Insgesamt;1500 bis unter 1750 EUR;403;231;169
+Sachsen;Insgesamt;1750 bis unter 2000 EUR;382;254;126
+Sachsen;Insgesamt;2000 bis unter 2500 EUR;589;441;147
+Sachsen;Insgesamt;2500 bis unter 3000 EUR;288;247;41
+Sachsen;Insgesamt;3000 bis unter 3500 EUR;157;145;12
+Sachsen;Insgesamt;3500 EUR und mehr;217;209;7
+Sachsen;Insgesamt;Ohne Angabe;0;0;0
+Sachsen;Insgesamt;Insgesamt;3992;1953;1963
+Sachsen-Anhalt;männlich;Kein Einkommen;138;0;132
+Sachsen-Anhalt;männlich;unter 500 EUR;56;0;48
+Sachsen-Anhalt;männlich;500 bis unter 1000 EUR;104;30;62
+Sachsen-Anhalt;männlich;1000 bis unter 1250 EUR;94;23;67
+Sachsen-Anhalt;männlich;1250 bis unter 1500 EUR;82;27;53
+Sachsen-Anhalt;männlich;1500 bis unter 1750 EUR;105;59;45
+Sachsen-Anhalt;männlich;1750 bis unter 2000 EUR;93;69;23
+Sachsen-Anhalt;männlich;2000 bis unter 2500 EUR;166;132;33
+Sachsen-Anhalt;männlich;2500 bis unter 3000 EUR;88;77;11
+Sachsen-Anhalt;männlich;3000 bis unter 3500 EUR;49;46;0
+Sachsen-Anhalt;männlich;3500 EUR und mehr;62;57;0
+Sachsen-Anhalt;männlich;Ohne Angabe;0;0;0
+Sachsen-Anhalt;männlich;Insgesamt;1036;528;482
+Sachsen-Anhalt;weiblich;Kein Einkommen;141;0;134
+Sachsen-Anhalt;weiblich;unter 500 EUR;63;9;53
+Sachsen-Anhalt;weiblich;500 bis unter 1000 EUR;144;37;99
+Sachsen-Anhalt;weiblich;1000 bis unter 1250 EUR;139;43;93
+Sachsen-Anhalt;weiblich;1250 bis unter 1500 EUR;105;51;53
+Sachsen-Anhalt;weiblich;1500 bis unter 1750 EUR;112;63;49
+Sachsen-Anhalt;weiblich;1750 bis unter 2000 EUR;94;59;35
+Sachsen-Anhalt;weiblich;2000 bis unter 2500 EUR;139;95;44
+Sachsen-Anhalt;weiblich;2500 bis unter 3000 EUR;64;51;13
+Sachsen-Anhalt;weiblich;3000 bis unter 3500 EUR;31;28;0
+Sachsen-Anhalt;weiblich;3500 EUR und mehr;33;30;0
+Sachsen-Anhalt;weiblich;Ohne Angabe;0;0;0
+Sachsen-Anhalt;weiblich;Insgesamt;1066;470;579
+Sachsen-Anhalt;Insgesamt;Kein Einkommen;279;7;266
+Sachsen-Anhalt;Insgesamt;unter 500 EUR;119;15;101
+Sachsen-Anhalt;Insgesamt;500 bis unter 1000 EUR;248;67;161
+Sachsen-Anhalt;Insgesamt;1000 bis unter 1250 EUR;233;66;160
+Sachsen-Anhalt;Insgesamt;1250 bis unter 1500 EUR;187;78;106
+Sachsen-Anhalt;Insgesamt;1500 bis unter 1750 EUR;217;121;94
+Sachsen-Anhalt;Insgesamt;1750 bis unter 2000 EUR;187;128;58
+Sachsen-Anhalt;Insgesamt;2000 bis unter 2500 EUR;305;226;78
+Sachsen-Anhalt;Insgesamt;2500 bis unter 3000 EUR;152;128;23
+Sachsen-Anhalt;Insgesamt;3000 bis unter 3500 EUR;80;73;7
+Sachsen-Anhalt;Insgesamt;3500 EUR und mehr;95;87;7
+Sachsen-Anhalt;Insgesamt;Ohne Angabe;0;0;0
+Sachsen-Anhalt;Insgesamt;Insgesamt;2103;998;1062
+Schleswig-Holstein;männlich;Kein Einkommen;238;0;229
+Schleswig-Holstein;männlich;unter 500 EUR;72;21;47
+Schleswig-Holstein;männlich;500 bis unter 1000 EUR;124;54;61
+Schleswig-Holstein;männlich;1000 bis unter 1250 EUR;70;28;37
+Schleswig-Holstein;männlich;1250 bis unter 1500 EUR;71;32;37
+Schleswig-Holstein;männlich;1500 bis unter 1750 EUR;81;45;35
+Schleswig-Holstein;männlich;1750 bis unter 2000 EUR;108;72;35
+Schleswig-Holstein;männlich;2000 bis unter 2500 EUR;211;158;52
+Schleswig-Holstein;männlich;2500 bis unter 3000 EUR;139;111;28
+Schleswig-Holstein;männlich;3000 bis unter 3500 EUR;100;80;20
+Schleswig-Holstein;männlich;3500 EUR und mehr;213;181;31
+Schleswig-Holstein;männlich;Ohne Angabe;0;0;0
+Schleswig-Holstein;männlich;Insgesamt;1428;787;611
+Schleswig-Holstein;weiblich;Kein Einkommen;272;0;261
+Schleswig-Holstein;weiblich;unter 500 EUR;123;34;86
+Schleswig-Holstein;weiblich;500 bis unter 1000 EUR;216;83;126
+Schleswig-Holstein;weiblich;1000 bis unter 1250 EUR;138;68;67
+Schleswig-Holstein;weiblich;1250 bis unter 1500 EUR;130;72;56
+Schleswig-Holstein;weiblich;1500 bis unter 1750 EUR;108;66;41
+Schleswig-Holstein;weiblich;1750 bis unter 2000 EUR;105;71;34
+Schleswig-Holstein;weiblich;2000 bis unter 2500 EUR;169;129;40
+Schleswig-Holstein;weiblich;2500 bis unter 3000 EUR;89;67;21
+Schleswig-Holstein;weiblich;3000 bis unter 3500 EUR;56;44;11
+Schleswig-Holstein;weiblich;3500 EUR und mehr;73;61;12
+Schleswig-Holstein;weiblich;Ohne Angabe;0;0;0
+Schleswig-Holstein;weiblich;Insgesamt;1479;702;754
+Schleswig-Holstein;Insgesamt;Kein Einkommen;510;11;490
+Schleswig-Holstein;Insgesamt;unter 500 EUR;195;55;133
+Schleswig-Holstein;Insgesamt;500 bis unter 1000 EUR;340;137;186
+Schleswig-Holstein;Insgesamt;1000 bis unter 1250 EUR;207;97;104
+Schleswig-Holstein;Insgesamt;1250 bis unter 1500 EUR;201;104;93
+Schleswig-Holstein;Insgesamt;1500 bis unter 1750 EUR;190;111;76
+Schleswig-Holstein;Insgesamt;1750 bis unter 2000 EUR;214;143;68
+Schleswig-Holstein;Insgesamt;2000 bis unter 2500 EUR;380;287;91
+Schleswig-Holstein;Insgesamt;2500 bis unter 3000 EUR;228;178;49
+Schleswig-Holstein;Insgesamt;3000 bis unter 3500 EUR;156;124;31
+Schleswig-Holstein;Insgesamt;3500 EUR und mehr;286;242;43
+Schleswig-Holstein;Insgesamt;Ohne Angabe;0;0;0
+Schleswig-Holstein;Insgesamt;Insgesamt;2906;1489;1366
+Thüringen;männlich;Kein Einkommen;159;0;156
+Thüringen;männlich;unter 500 EUR;32;6;24
+Thüringen;männlich;500 bis unter 1000 EUR;106;36;60
+Thüringen;männlich;1000 bis unter 1250 EUR;89;23;64
+Thüringen;männlich;1250 bis unter 1500 EUR;86;31;54
+Thüringen;männlich;1500 bis unter 1750 EUR;97;55;41
+Thüringen;männlich;1750 bis unter 2000 EUR;99;74;25
+Thüringen;männlich;2000 bis unter 2500 EUR;169;136;32
+Thüringen;männlich;2500 bis unter 3000 EUR;78;70;8
+Thüringen;männlich;3000 bis unter 3500 EUR;43;40;0
+Thüringen;männlich;3500 EUR und mehr;71;66;0
+Thüringen;männlich;Ohne Angabe;0;0;0
+Thüringen;männlich;Insgesamt;1029;538;471
+Thüringen;weiblich;Kein Einkommen;161;0;157
+Thüringen;weiblich;unter 500 EUR;42;11;29
+Thüringen;weiblich;500 bis unter 1000 EUR;144;40;97
+Thüringen;weiblich;1000 bis unter 1250 EUR;125;39;83
+Thüringen;weiblich;1250 bis unter 1500 EUR;110;50;59
+Thüringen;weiblich;1500 bis unter 1750 EUR;108;63;44
+Thüringen;weiblich;1750 bis unter 2000 EUR;98;57;40
+Thüringen;weiblich;2000 bis unter 2500 EUR;142;100;41
+Thüringen;weiblich;2500 bis unter 3000 EUR;57;48;10
+Thüringen;weiblich;3000 bis unter 3500 EUR;31;26;0
+Thüringen;weiblich;3500 EUR und mehr;33;31;0
+Thüringen;weiblich;Ohne Angabe;0;0;0
+Thüringen;weiblich;Insgesamt;1050;467;567
+Thüringen;Insgesamt;Kein Einkommen;320;0;313
+Thüringen;Insgesamt;unter 500 EUR;74;17;53
+Thüringen;Insgesamt;500 bis unter 1000 EUR;250;76;157
+Thüringen;Insgesamt;1000 bis unter 1250 EUR;214;63;147
+Thüringen;Insgesamt;1250 bis unter 1500 EUR;196;80;113
+Thüringen;Insgesamt;1500 bis unter 1750 EUR;204;118;85
+Thüringen;Insgesamt;1750 bis unter 2000 EUR;197;131;64
+Thüringen;Insgesamt;2000 bis unter 2500 EUR;310;236;73
+Thüringen;Insgesamt;2500 bis unter 3000 EUR;136;118;18
+Thüringen;Insgesamt;3000 bis unter 3500 EUR;74;66;9
+Thüringen;Insgesamt;3500 EUR und mehr;104;98;6
+Thüringen;Insgesamt;Ohne Angabe;0;0;0
+Thüringen;Insgesamt;Insgesamt;2079;1005;1038
